@@ -1,0 +1,12 @@
+PODS:
+  - Analytics (3.5.3)
+
+DEPENDENCIES:
+  - Analytics
+
+SPEC CHECKSUMS:
+  Analytics: e9f07fe57d1d5d14c47e72e719d1f30c6d0ec548
+
+PODFILE CHECKSUM: 33c6bbba3d7af8327a35c035cbd5a0a8f6beb0ef
+
+COCOAPODS: 1.1.1
